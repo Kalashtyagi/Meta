@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Vanilla Ice Cream",
+      "description": "Classic creamy vanilla flavor",
+      "image": "vanilla.jpg",
+      "price": 2.99
+    },
+    {
+      "id": 2,
+      "title": "Chocolate Chip Cookie Dough",
+      "description": "Rich chocolate ice cream with cookie dough chunks",
+      "image": "cookie_dough.jpg",
+      "price": 3.49
+    },
+    {
+      "id": 3,
+      "title": "Strawberry Swirl",
+      "description": "Refreshing strawberry flavored ice cream with swirls",
+      "image": "strawberry_swirl.jpg",
+      "price": 3.19
+    },
+    {
+      "id": 4,
+      "title": "Mint Chocolate Chip",
+      "description": "Cool mint ice cream with chocolate chips",
+      "image": "mint_choc_chip.jpg",
+      "price": 3.29
+    },
+    {
+      "id": 5,
+      "title": "Rocky Road",
+      "description": "Indulgent chocolate ice cream with marshmallows and nuts",
+      "image": "rocky_road.jpg",
+      "price": 3.59
+    },
+    {
+      "id": 6,
+      "title": "Caramel Swirl",
+      "description": "Sweet caramel-flavored ice cream with caramel swirls",
+      "image": "caramel_swirl.jpg",
+      "price": 3.39
+    },
+    {
+      "id": 7,
+      "title": "Pistachio Almond",
+      "description": "Nutty pistachio ice cream with almond pieces",
+      "image": "pistachio_almond.jpg",
+      "price": 3.69
+    },
+    {
+      "id": 8,
+      "title": "Blueberry Cheesecake",
+      "description": "Blueberry flavored ice cream with cheesecake bits",
+      "image": "blueberry_cheesecake.jpg",
+      "price": 3.49
+    },
+    {
+      "id": 9,
+      "title": "Cookies and Cream",
+      "description": "Creamy vanilla ice cream with chocolate cookie crumbles",
+      "image": "cookies_cream.jpg",
+      "price": 3.29
+    },
+    {
+      "id": 10,
+      "title": "Rainbow Sherbet",
+      "description": "Refreshing sherbet with a mix of fruit flavors",
+      "image": "rainbow_sherbet.jpg",
+      "price": 3.19
+    }
+  ]
+}
