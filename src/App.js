@@ -9,6 +9,12 @@ import Internalisation from "./Component/Internalisation/Internalisation";
 import HtmlString from "./Component/HtmlTostring/HtmlString";
 import Table from "./Component/table";
 import Dashboard from "./Responsive";
+import ImageSize from "./Component/ImageExceed/ImageSize";
+import StateHook from "./Component/useState/StateHook";
+import Goal from "./Component/useState/Goal";
+import Memo from "./Memo/Memo";
+import Memo1 from "./Memo/Memo1";
+import Callback from "./Component/Callback/Callback";
 function App() {
   const person = {
     name: "kalash",
@@ -29,6 +35,12 @@ function App() {
       {/* <HtmlString /> */}
       {/* <Table /> */}
       {/* <Dashboard /> */}
+      {/* <ImageSize/> */}
+      {/* <StateHook/> */}
+      {/* <Goal/> */}
+      {/* <Memo/> */}
+      {/* <Memo1/> */}
+      <Callback/>
     </>
   );
 }
